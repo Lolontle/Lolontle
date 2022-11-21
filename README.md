@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lolontle
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Information Security on FreeCodeCamp
+- 🌱 I’m currently working at SovETch
 - 💞️ I’m looking to collaborate on any Web Development projects
 - 📫 How to reach me on lolontle.r.moatshe@gmail.com
 
