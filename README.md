@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Information Security on FreeCodeCamp
 - 💞️ I’m looking to collaborate on any Web Development projects
-- 📫 How to reach me on lolontle.moatshe96@gmail.com
+- 📫 How to reach me on lolontle.r.moatshe@gmail.com
 
 <!---
 Lolontle/Lolontle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
